@@ -1,0 +1,5 @@
+The goal is to store some basic templates to make it easier for myself to start new things.
+
+* Templates:
+** TODO C + raylib
+** TODO C + SDL
