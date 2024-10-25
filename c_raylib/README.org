@@ -1,5 +1,5 @@
 Expects [[https://github.com/raysan5/raylib][raylib]] in the host system.
 
 #+begin_src shell
-  cc main.c -I /usr/local/include/ -L /usr/local/lib/ -l raylib
+  gmake
 #+end_src
