@@ -1,6 +1,6 @@
 #include <raylib.h>
 
-int main(void)
+int main(int argc, char **argv)
 {
     InitWindow(800, 600, "TITLE");
 
@@ -8,7 +8,7 @@ int main(void)
     {
         BeginDrawing();
         ClearBackground(BLACK);
-        DrawText("TEXT", 40, 40, 20, WHITE);
+        DrawText(argv[0], 40, 40, 20, WHITE);
         EndDrawing();
     }
 
