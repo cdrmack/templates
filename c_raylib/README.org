@@ -1,4 +1,4 @@
-Expects [[https://github.com/raysan5/raylib][raylib]] in the host system.
+Expects [[https://www.raylib.com/][raylib]] in the host system.
 
 #+begin_src shell
   gmake

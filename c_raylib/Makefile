@@ -6,7 +6,7 @@ LIBS_DIR = /usr/local/lib
 LDLIBS = raylib
 
 CPPFLAGS = -I /usr/local/include
-CFLAGS = -std=c17 -g -Wall -Werror
+CFLAGS = -std=c23 -g -Wall -Werror
 LDFLAGS = -L $(LIBS_DIR) -l $(LDLIBS)
 
 %.o:%.c
