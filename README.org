@@ -2,5 +2,4 @@ Basic templates to make it easier for myself to start new things.
 
 Templates:
 - [[file:c_raylib/README.org][C, raylib]]
-- C, SDL2
-- C, SDL3
+- [[file:c_gtk4/README.org][C, GTK4]]
