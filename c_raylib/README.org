@@ -1,5 +1,0 @@
-Expects [[https://www.raylib.com/][raylib]] in the host system.
-
-#+begin_src shell
-  gmake
-#+end_src

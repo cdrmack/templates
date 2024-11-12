@@ -1,6 +1,0 @@
-Basic templates to make it easier for myself to start new things.
-
-Templates:
-- [[file:c_raylib/README.org][C, raylib]]
-- [[file:c_sdl3/README.org][C, SDL3]]
-- [[file:c_gtk4/README.org][C, GTK4]]

@@ -1,5 +1,0 @@
-Expects [[https://www.gtk.org/][GTK4]] in the host system.
-
-#+begin_src shell
-  gmake
-#+end_src
